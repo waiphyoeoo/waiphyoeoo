@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Wai Phyoe Oo</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
+<h3 align="center">A passionate Odoo developer with 3 years experience from Myanmar</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdubjI1eDVmYnhxand3bTB6M29oaDA4Y3VxNnliem82cjZ6MXFzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waiphyoeoo&label=Profile%20views&color=0e75b6&style=flat" alt="waiphyoeoo" /> </p>
@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waiphyoeoo" alt="waiphyoeoo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working as Odoo Developer at https://myansis.com/ 
 
 - 🌱 I’m currently learning **Odoo Framework And Go lang**
 
