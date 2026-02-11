@@ -7,6 +7,8 @@
 
 <p align="left">  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=Odoo+Developer;Full+Stack+Developer;Open+Source+Lover" />
 </p>
+<p align="left"> <img src="https://img.shields.io/badge/Odoo-Developer-purple?style=for-the-badge" />
+</p>
 
 <p align="left"><a href="https://linkedin.com/in/wai-phyoe-oo">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
