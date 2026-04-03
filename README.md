@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a> </p>
 
-- 🔭 I’m currently working as Senior Odoo Developer at https://www.greenitmm.com/
+- 🔭 I’m currently working as Senior Odoo Developer at https://greenit-sg.com/
 
 - 🌱 I’m currently learning **Odoo Framework And Go lang**
 
