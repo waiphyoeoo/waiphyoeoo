@@ -11,6 +11,9 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="coding" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdubjI1eDVmYnhxand3bTB6M29oaDA4Y3VxNnliem82cjZ6MXFzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
+
+
 - 🔭 Currently working as **Senior Odoo Developer** at Green IT  
 - 🌱 Learning **Odoo Framework & Golang**  
 - ⚙️ Experienced in **ERP, Manufacturing, Fleet & Inventory Systems**  
