@@ -11,21 +11,32 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Senior Odoo Developer at Green IT  
-- ⚙️ ERP Systems (Manufacturing, Fleet, Inventory, IoT ideas)
-- 🌱 Learning Odoo Advanced Framework & Golang
-- 💬 Ask me about **Odoo / System Design / Backend**
-- 📫 Email: **waiphyoeoo192@gmail.com**
+- 🔭 Currently working as **Senior Odoo Developer** at Green IT  
+- 🌱 Learning **Odoo Framework & Golang**  
+- ⚙️ Experienced in **ERP, Manufacturing, Fleet & Inventory Systems**  
+- 💬 Ask me about **Odoo, Backend Architecture, Go Lang**
+- 📫 Reach me: **waiphyoeoo192@gmail.com**
 
 ---
 
 ## 🧠 Tech Stack
 
+### 💻 Backend & ERP
 ![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🌐 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -41,14 +52,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
@@ -56,7 +59,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
 
 ---
 
-✨ *“Building scalable ERP systems with Odoo & real-world industrial solutions”* ✨
+✨ *"Building scalable ERP systems & real-world industrial solutions with Odoo"* ✨
