@@ -76,18 +76,30 @@
 
 ---
 
-## 📫 Connect with Me
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/wai-phyoe-oo">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
 
 ---
+
+## 🧭 Vision
+
+> Building intelligent ERP systems that connect **software, machines, and real-world operations**
+
+---
+
+✨ *“From ERP Development to Industrial System Engineering”* ✨
 
 ✨ *"Building scalable ERP systems & real-world industrial solutions with Odoo"* ✨
