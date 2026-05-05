@@ -26,20 +26,48 @@
 ---
 ## 🚀 Featured Projects
 
-### 🏭 Manufacturing Management System
-- Odoo-based production workflow & process control
-- Machine-level tracking & optimization
-- Real-world industrial implementation
+### 🏦 Banking System (Non-Financial & Budget Management)
+- Designed and implemented **Non-Financial approval workflow system**
+- Built **multi-level approval flow (HOD → CFO → EC)** in Odoo
+- Developed **budget planning & control module**
+- Improved organizational decision-making with structured workflows
+
+---
+
+### 💎 Gold Shop Management System
+- Implemented **barcode-based inventory system for gold products**
+- Designed workflow for **goldsmith production tracking**
+- Managed **real-time stock accuracy for high-value assets**
+- Customized ERP for retail + production hybrid business
+
+---
+
+### ⚽ Football Federation Accounting System
+- Developed accounting reports with **parallel currency support (MMK / USD)**
+- Built **financial reporting system aligned with international standards**
+- Handled **multi-currency transactions & exchange calculations**
+- Improved transparency and financial analysis capabilities
+
+---
 
 ### 🚍 Fleet Management System (YBPC)
-- GPS tracking integration
-- Real-time bus monitoring system
-- Route & performance analytics
+- Integrated **GPS tracking system for buses**
+- Built **real-time monitoring dashboard**
+- Implemented **route & performance analytics**
+
+---
+
+### 🏭 Manufacturing Management System
+- Designed **production workflow system in Odoo**
+- Integrated **machine-level process tracking**
+- Focused on **performance optimization & automation**
+
+---
 
 ### 🏗 Tower Inventory & Mapping System
-- Inventory control + geolocation mapping
-- Visual tower tracking on map
-- Asset lifecycle management
+- Developed **inventory + geolocation system**
+- Visualized assets on **interactive map**
+- Improved asset tracking and management
 
 ---
 
