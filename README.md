@@ -24,6 +24,24 @@
   <br clear="both"/>
 
 ---
+## 🚀 Featured Projects
+
+### 🏭 Manufacturing Management System
+- Odoo-based production workflow & process control
+- Machine-level tracking & optimization
+- Real-world industrial implementation
+
+### 🚍 Fleet Management System (YBPC)
+- GPS tracking integration
+- Real-time bus monitoring system
+- Route & performance analytics
+
+### 🏗 Tower Inventory & Mapping System
+- Inventory control + geolocation mapping
+- Visual tower tracking on map
+- Asset lifecycle management
+
+---
 
 ## 🧠 Tech Stack
 
