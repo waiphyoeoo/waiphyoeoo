@@ -70,13 +70,14 @@
 - Improved asset tracking and management
 
 ---
-## 🔥 Featured Repositories
-
-| Project | Tech | Description |
+| Project | Tech Stack | Description |
 |---|---|---|
-| Manufacturing ERP | Odoo, Python | Production workflow automation |
-| Fleet GPS System | Odoo, Maps API | Real-time vehicle tracking |
-| Gold Shop ERP | Odoo, Barcode | Inventory & goldsmith workflow |
+| 🏭 Manufacturing ERP | Odoo, Python, PostgreSQL | Advanced production workflow automation with inventory control, work orders, BOM management, and machine operation tracking |
+| 🚌 Fleet GPS System | Odoo, Maps API, GPS Integration | Real-time vehicle tracking, route monitoring, fuel management, and fleet analytics dashboard for transportation operations |
+| 💎 Gold Shop ERP | Odoo, Barcode, POS | Smart gold inventory management system with barcode workflows, goldsmith processing, pricing calculation, and POS integration |
+| 🏦 Banking Non-Financial System | Odoo, Python | Multi-level approval workflow system for enterprise non-financial requests, budgeting, and compliance operations |
+| ⚽ Football Federation Accounting | Odoo, XLSX Reporting | Parallel currency financial reporting system with customized accounting analytics and Excel export automation |
+| 🗼 Tower Inventory Mapping | Odoo, GIS, Maps API | Tower asset management system with interactive map visualization and infrastructure inventory tracking |
 
 ## 🚧 Currently Building
 
