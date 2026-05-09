@@ -106,6 +106,13 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
+## ☁️ Cloud & DevOps Skills
+
+- AWS (EC2, S3, RDS, IAM) – ERP deployment & cloud infrastructure
+- Docker – Containerized Odoo deployments for scalable environments
+- Docker Compose – Multi-service architecture (Odoo + PostgreSQL + Redis)
+- Linux Server Management – Production ERP hosting & optimization
+- CI/CD Basics – Automated deployment pipelines for ERP systems
 
 ## 📊 GitHub Stats
 
