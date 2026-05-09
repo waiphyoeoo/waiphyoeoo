@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Wai Phyoe Oo</h1>
-<h3 align="center">ERP Engineer | Senior Odoo Developer |  System Architect 🇲🇲</h3>
+<h3 align="center">Industrial ERP Engineer | Odoo Architect | IoT & Automation Systems 🇲🇲</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=waiphyoeoo&label=Profile%20Views&color=0e75b6&style=flat" />
