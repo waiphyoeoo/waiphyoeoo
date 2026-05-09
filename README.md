@@ -78,6 +78,12 @@
 | Fleet GPS System | Odoo, Maps API | Real-time vehicle tracking |
 | Gold Shop ERP | Odoo, Barcode | Inventory & goldsmith workflow |
 
+## 🚧 Currently Building
+
+- Odoo + IoT machine automation
+- AI-powered CRM lead processing
+- Smart factory monitoring system
+- High-performance ERP backend in Go
 
 ## 🧠 Tech Stack
 
