@@ -70,6 +70,14 @@
 - Improved asset tracking and management
 
 ---
+## 🔥 Featured Repositories
+
+| Project | Tech | Description |
+|---|---|---|
+| Manufacturing ERP | Odoo, Python | Production workflow automation |
+| Fleet GPS System | Odoo, Maps API | Real-time vehicle tracking |
+| Gold Shop ERP | Odoo, Barcode | Inventory & goldsmith workflow |
+
 
 ## 🧠 Tech Stack
 
