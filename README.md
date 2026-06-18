@@ -135,13 +135,7 @@
   <a href="https://github.com/waiphyoeoo"><img alt="Wai Phyoe Oo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=waiphyoeoo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waiphyoeoo" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waiphyoeoo&show_icons=true" />
-</p>
 
 ---
 
